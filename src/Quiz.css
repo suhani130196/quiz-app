@@ -1,0 +1,107 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: rgb(46, 13, 103);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.Header {
+  margin-left: 60px;
+}
+.heading1{
+  text-align: center;
+  font-family: cursive;
+  font-size: 100px;
+}
+
+.heading2{
+  text-align: center;
+  font-family:fantasy;
+  font-size: 4em;
+  margin-top: 90px;
+}
+
+.ClickButton{
+  align-items: center;
+  margin-left: 620px;
+  width: 15%;
+  height: 35px;
+  border: hidden;
+  border-radius: 10px;
+  color: black;
+  background-color: rgb(122, 232, 232);
+  
+}
+
+.buttonP{
+  width: 120px;
+  height: 40px;
+  background-color: rgb(122, 232, 232);
+  text-align: center;
+  margin-left: 620px;
+  border-radius: 30px;
+  border-style: hidden;
+  color: black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.buttonN{
+  width: 120px;
+  height: 40px;
+  border-radius: 30px;
+  border-style: hidden;
+  background-color: rgb(122, 232, 232);
+  text-align: center;
+  margin-left: 180px;
+  color: black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.questions{
+  text-align: center;
+  font-size: 2em;
+  margin-top: 90px;
+  margin-bottom: 30px;
+}
+.Qheading{
+  font-size: 35px;
+  text-align: center;
+  margin-bottom: 70px;
+  color: rgb(190, 93, 190);
+}
+.Ques{
+  font-size: 70px;
+  font-style: italic;
+  font-family: cursive;
+}
+.radioB{
+
+  display: block;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  padding-left: 40px;
+  margin-bottom: 7px;
+  cursor: pointer;
+  font-size: 35px;
+  padding-left: 20px;
+}
+
+.ScoreCard{
+  text-align: center;
+  margin-top: 200px;
+  color:rgb(122, 232, 232) ;
+  font-size: 100px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.winMessage{
+  text-align: center;
+  font-size: 80px;
+  font-family: fantasy;
+  color: rgb(190, 93, 190);
+}

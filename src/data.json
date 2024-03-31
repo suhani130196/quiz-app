@@ -1,0 +1,23 @@
+{
+    
+    "1": [
+        {
+            "question": "What is Capital of India?",
+            "option 1": "Mumbai",
+            "option 2": "Kerala",
+            "option 3": "Delhi",
+            "option 4": "Bengaluru",
+            "answer": "option 3"
+        }
+    ],
+    "2": [
+        {
+            "question": "first question",
+            "option 1": "first option",
+            "option 2": "second option",
+            "option 3": "third option",
+            "option 4": "fourth option",
+            "answer": "option 3"
+        }
+    ]        
+}
